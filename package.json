@@ -4,7 +4,11 @@
   "description": "Mystagram Using Unsplash API",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "node index.js"
+  },
+  "engines": {
+      "node": "v12.18.0",
+      "npm": "6.14.4"
   },
   "author": "Worachet Uttha",
   "license": "ISC",
